@@ -1,0 +1,8 @@
+framework_id,framework_name,scope,recognized_outcome_required,verification_rule,common_misclassification
+AF-001,IFRS 9 Expected Credit Losses,Financial instruments and credit impairment,Yes,"Confirm recognized ECL/provision amount or explicit IFRS 9 outcome, and framework evidence in original source.","PD, LGD, EAD, NPL or LLP alone are not recognized ECL."
+AF-002,IAS 36 Impairment of Assets,Non-financial assets impairment,Yes,"Confirm impairment loss/recognized amount or direct IAS 36 impairment test, with framework evidence.","Climate exposure, asset valuation proxy or impairment proxy alone does not establish IAS 36."
+AF-003,General credit-risk indicators,Banking credit risk,No,Classify indirect unless recognized IFRS 9 ECL explicitly measured.,"PD, LGD, EAD, NPL, LLP and scores are not interchangeable with ECL."
+AF-004,Disclosure-only evidence,Climate/accounting disclosures,No,Classify disclosure evidence without implying recognition.,Disclosure of climate risk does not prove recognized impairment or ECL.
+AF-005,Simulation/scenario analysis,Modelled hypothetical outcomes,No,Label simulation; record assumptions and scenario horizon.,Scenario outputs are not actual recognized financial statement amounts.
+AF-006,"Impairment proxy, framework unconfirmed",Asset impairment outcomes,No,Record proxy as proxy; only upgrade directness after framework and recognized IAS 36 outcome confirmed.,An impairment-related variable does not establish IAS 36.
+AF-007,Loan-loss provision (LLP) proxy,Bank provisions,No,"Check policy, standard and whether amount is IFRS 9 ECL; otherwise proxy.",LLP labels may reflect differing accounting frameworks and definitions.

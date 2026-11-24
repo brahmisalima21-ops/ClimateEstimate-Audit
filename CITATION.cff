@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "ClimateEstimate-Audit: research evidence audit toolkit"
+version: 0.1.0
+date-released: 2026-11-24
+license: MIT
+authors:
+  - family-names: "BRAHMI"
+    given-names: "SALIMA"
+repository-code: "https://github.com/brahmisalima21-ops/ClimateEstimate-Audit"
+abstract: "Toolkit for mapping how directly research links climate risks to recognized IAS 36 impairment and IFRS 9 expected credit losses. Early prototype, not a systematic review."
+keywords:
+  - climate risk
+  - IFRS 9
+  - IAS 36
+  - expected credit loss

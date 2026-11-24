@@ -1,0 +1,3 @@
+# Data dictionary
+
+One row per publication/document. `study_id` is a stable identifier. `doi_or_url` is a source locator; `source_verified_date` is blank until a source is checked. `source_verification_status` records verification caveats. `sample_size`, `sample_description`, `period`, `country_or_region`, `sector`, `climate_risk_type`, and `climate_risk_measure` capture study context. `accounting_standard` is not equivalent to an outcome tested; `accounting_outcome` and `variable_type` record what was actually measured. `recognized_accounting_amount_measured` and `accounting_framework_confirmed` are strict Yes/No fields. `directness_level` follows classification_rules.md. Blank fields are not evidence of absence.

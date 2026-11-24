@@ -1,0 +1,10 @@
+risk_id,risk_category,risk_subtype,description,possible_accounting_channel,evidence_note
+CR-001,Physical,Acute,"Flood, wildfire, storm, extreme weather","Asset damage, operating disruption, cash-flow changes",Potential pathway; recognition not presumed
+CR-002,Physical,Chronic,"Heat, drought, sea-level rise, water stress","Useful life, productivity, cash-flow assumptions, asset values",Potential pathway; recognition not presumed
+CR-003,Transition,Policy and regulation,"Carbon pricing, emissions rules, CBAM","Costs, demand, cash-flow assumptions, asset values",Potential pathway; recognition not presumed
+CR-004,Transition,Technology,Low-carbon substitution and technology shifts,"Obsolescence, capex, cash flows",Potential pathway; recognition not presumed
+CR-005,Transition,Market,"Customer preferences, energy prices, supply chains","Revenue, margins, forecasts",Potential pathway; recognition not presumed
+CR-006,Transition,Reputation,Stakeholder/reputational change,"Revenue, financing, operating assumptions",Potential pathway; recognition not presumed
+CR-007,Policy uncertainty,Climate-policy uncertainty,Uncertain policy pathways and timing,"Forecast uncertainty, discount rates, scenario selection",Potential pathway; recognition not presumed
+CR-008,Stranded assets,Carbon-intensive assets potentially economically stranded,"Reduced demand, regulatory constraints, asset cash flows",Impairment indicators; valuation/cash-flow assumptions,Potential pathway; recognition not presumed
+CR-009,Cross-cutting,Insurance gap,Unavailable/expensive insurance or reduced coverage,"Loss severity, credit exposure, operating cost and risk transfer",Potential pathway; recognition not presumed
